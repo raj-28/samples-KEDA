@@ -11,3 +11,4 @@ This sample demonstrates autoscaling based on Redis Streams using KEDA.
 
 ## Architecture
 
+**Note**: No separate docs PR required - this contribution is to the samples repository which hosts its own documentation within the sample README. The comprehensive documentation included in this sample serves as the required documentation update.
